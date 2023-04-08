@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    	<style>
+        @fornt-first{
+        font family:Myfistfont;
+        src:url(sansation_light.woff);
+        {
+        
+        }
+        }
+        
+        </style>
+		<body>
+        	<h1>
+            	@font-fimaly:Myfirstfont
+            		this is my first font slyte
+        	</h1>
+        
+        
+		</body>
+	</head>
+</html>
+
+
