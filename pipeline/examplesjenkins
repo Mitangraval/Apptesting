@@ -1,0 +1,21 @@
+pipeline {
+	agent ("label") {
+	 stage {
+		stage ("Java version") {
+		sh --version
+		}
+		stage ('install') {
+		sh timeup
+		}
+		stage (New filesystem) {
+		sh touch file {1..5}
+		}
+		stage (B check) {
+		parallel {
+		
+		}
+		}
+	 }
+	
+	}
+}
