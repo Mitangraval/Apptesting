@@ -1,0 +1,2 @@
+How do I save and overwrite an existing file in vi?
+Type :w! file to overwrite the existing file, or type :w newfile to save the edited version in a new file.
