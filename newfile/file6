@@ -1,0 +1,6 @@
+my_list = ["a", "b", "c", "d", "e", "f", 
+for i in range(len(my_list)-1, 2, -1):
+	print(my_list[i])
+
+
+	hi new line added from feature
